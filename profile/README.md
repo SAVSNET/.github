@@ -1,11 +1,3 @@
----
-title: README
-emoji: 😻
-colorFrom: green
-colorTo: yellow
-sdk: static
-pinned: false
----
 <img src="https://scontent-lhr6-2.xx.fbcdn.net/v/t39.30808-6/358106621_711969984069209_8233039462852953990_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=JKbpTtsrVFEAX_KGwf9&_nc_ht=scontent-lhr6-2.xx&oh=00_AfAh-tf_PVmstSRku7Y76fKjgp0R10TetrYMD-fQO4Zzlg&oe=657E5392" alt="savsnet_logo" style="display: block;margin-left: auto;margin-right: auto;width: 10%;"/>
 
 # Welcome to SAVSNET
